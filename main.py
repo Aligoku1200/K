@@ -3,4 +3,4 @@ from os import system as Z
 Z("/opt/virtualenvs/python3/bin/python3 -m pip install --upgrade pip")
 #keep_alive()
 Z("clear")
-Z("python coins.py")
+Z("python 0.py")
